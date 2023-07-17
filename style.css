@@ -1,0 +1,291 @@
+body{
+	background: #EB704E;
+	margin: 0;
+}
+/***header-area***/
+.header-area{
+	margin-top: 50px;
+
+}
+.header-area .container{
+	width: 80%;
+	background: #FFFFFF;
+	padding: 30px 10px;
+}
+.header-area .main-menu{
+	margin-left: 20px;
+}
+.header-area h6{
+	font-size: 17px;
+	font-family: Helvetica Neue, Arial, sans-serif;
+	font-weight: 700;
+	border-right: 2px solid #B4B4B4;
+	padding: 10px 15px;
+
+}
+.header-area .main-menu .menubar{
+	margin-left: 20px;
+}
+.header-area .main-menu .font  {
+	margin-left: 300px;
+	font-size: 15px;
+	border-right: 2px solid #B4B4B4;
+}
+.main-menu ul li{	
+	text-transform: uppercase;
+	font-family:  Helvetica Neue, Arial, sans-serif;
+	font-weight: 700; 
+}
+.main-menu ul li a{
+	color: #8A8A8A;
+	text-decoration: none;
+	font-size: 13px;
+	margin-left: 10px;
+
+}
+.main-menu ul li a:hover{
+	border: 5px solid #444444;
+	border-radius: 50px;
+
+}
+
+/***discript-area***/
+
+.discript-area{
+	margin-top: 50px; 
+}
+.discript-area .container{
+	width: 80%;
+	background: #FFFFFF;
+	padding: 46px 0px;
+	background-image: url(images/bg.jpg);
+	background-repeat: no-repeat;
+	background-position: 100% 0;
+}
+.text-area h3{
+	margin-top: 50px;
+	font-size: 25px;
+	font-weight: 700;
+}
+.text-area p{
+	color: #616161;
+	width: 100%;
+	line-height: 25px;
+}
+.text-area button{
+	padding: 7px 30px;
+	margin-top: 50px;
+}
+
+.img-area img{
+	position:absolute;
+	right: 50px;
+	top: 0;
+	 
+
+}
+.img-area h2{
+	position: absolute;
+	top: 320px;
+	left: 190px;
+	font-size: 50px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+/***graph-area***/
+
+.graph-area{
+	margin-top: 70px;
+
+
+}
+.graph-area .container{
+	width: 80%;
+	background: #FFFFFF;
+	height: 430px;
+}
+.graph-area .show img{
+	margin-left: -15px;
+}
+.graph-area .show-det h4{
+	font-weight: 700;
+	font-size: 25px;
+}
+.graph-area .show-det h6{
+	font-weight: 700;
+}
+.graph-area .show-det a{
+	text-decoration: none;
+	font-size: 11px;
+}
+.graph-area .show-det i{
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+.graph-area .show-det button{
+	margin-left: 120px;
+}
+.graph-area .two{
+	background: #EB704E;
+}
+
+.graph-area .two .box{
+	width: 100%;
+	height: 500px;	
+	color: #EB704E;
+}
+.graph-area .three img{
+	margin-left: -15px;
+	margin-top: -1px;
+	width: 631px;
+}
+.graph-area .three h3{
+	color: #FFFFFF;
+	font-size: px;
+	position: absolute;
+	top: 15px;
+	left: 30px;
+	font-weight: 700;
+}
+.three .day-menu ul{
+	position: absolute;
+	top: 200px;
+	left: 60px;
+}
+.three .day-menu ul li{
+	margin-left: 30px;
+}
+.three .day-menu ul li a{
+	text-transform: uppercase;
+	color: #B26D10;
+	font-family: tahoma;
+	font-weight: bold;
+}
+.three .pop-menu ul{
+	margin-top: 80px;
+	margin-left: -30px;
+}
+.three .pop-menu ul li{
+	padding: 5px 30px;
+}
+.three .pop-menu ul li a{
+	text-decoration: none;
+	font-size:25px ;
+	color: black;
+}
+.three .pop-menu ul li a small{
+	font-size: 11px;
+}
+
+/***price-area***/
+.price-area{
+
+}
+.price-area .container{
+	width: 82%;
+
+}
+.price-area .four{
+	background-color: #FFFFFF;
+
+}
+.four h2{
+	text-transform: uppercase;
+	font-size: 25px;
+	font-weight: 700;
+}
+.four .vans img{
+	float: left;
+	margin-right: 20px;
+	overflow: hidden;
+
+}
+.vans h6{	
+	float: left;
+	margin-right: 15px;
+}
+.vans a{
+	font-size: 11px;
+	margin-left: 15px;
+	text-decoration: none; 
+}
+.vans button{
+	margin-top: -15px;
+	margin-right: 40px;
+}
+.vans i{
+	font-size: 30px;
+	color: #5A5A5A;
+
+}
+.vans hr{
+	border: 1px solid;
+	margin-bottom: 50px;
+}
+.price-area h4{
+	font-size: 30px;
+	font-weight: 700;
+	float: left;
+}
+.price-area .hudai{
+	margin-left: 10px;
+	font-weight: 700;
+
+}
+.price-area .button2{
+	margin-top: 15px;
+	margin-left: 290px;
+
+}
+.price-area .six{
+	background-color: #FFFFFF;
+}
+.six img{
+	width: 109%;
+	margin-left: -15px;
+}
+.six h3{
+	margin-top: 40px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.six small{
+	color: #5A5A5A;
+	font-weight: 500;
+
+}
+
+/***footer-area***/
+
+.footer-area {
+	margin-top: 50px;
+}
+.footer-area .container{
+	width: 80%;
+	background-color: #FFFFFF;
+	margin-bottom: 50px;
+}
+.footer-area .footer-text h6{
+	font-size: 15px;
+	margin-left: 40px;
+	font-weight: 600;
+	cursor: pointer;
+	color: #5A5A5A;
+	border-right: 1px solid;
+	padding: 10px 15px;
+}
+.footer-menu .last{
+	margin-left: 630px;
+}
+.footer-menu ul li{
+	margin-left: 20px;
+	font-size: 20px;
+}
+
+	
+
+
+
